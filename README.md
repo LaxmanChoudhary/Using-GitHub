@@ -36,6 +36,21 @@ $ cd "[file_name]"
 ### Step 2: Initiate pull request to up directory with new changes
 ```
 $ git pull origin master
-
 ```
+
+# Working with branch
+```
+create a new branch named "feature_x" and switch to it using
+$ git checkout -b feature_x
+```
+```
+switch back to master
+$ git checkout master
+```
+```
+and delete the branch again
+$ git branch -d feature_x
+```
+#### a branch is not available to others unless you push the branch to your remote repository
+git push origin <branch>
 ## Note : ``` The $ sign represents the use of terminal commands ```
