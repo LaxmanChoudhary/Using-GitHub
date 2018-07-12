@@ -27,4 +27,4 @@ show modified files on your device directory, that are added but not pushed to r
 $ git commit -m “[descriptive message]”
 commit your staged content as a new commit snapshot
 ```
-## Note : ``` The $ sign represents the use of terminal commands ```
+## Note : #### ``` The $ sign represents the use of terminal commands ```
