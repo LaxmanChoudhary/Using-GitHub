@@ -60,4 +60,4 @@ $ git push origin <branch>
 ```
 ## Note : ``` The $ sign represents the use of terminal commands ```
 
-For more of a easy demo follow the [site here]("http://rogerdudler.github.io/git-guide/")
+For more of a easy demo follow the site [here](http://rogerdudler.github.io/git-guide/)
