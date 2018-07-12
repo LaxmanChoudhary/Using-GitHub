@@ -3,10 +3,10 @@
 
 # SETUP
 
-'''
+''''
 ### get config --global user.email "[valid email]"
 set an email address to use as identity for git
-'''
+''''
 
 # INITIALIZATION
 '''
