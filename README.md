@@ -43,6 +43,9 @@ $ git pull origin master
 create a new branch named "feature_x" and switch to it using
 $ git checkout -b feature_x
 ```
+
+perform-   add, commit and push request[for branch stated below] for branch like 	           master to create a merge request to repository
+
 ```
 switch back to master
 $ git checkout master
@@ -52,5 +55,9 @@ and delete the branch again
 $ git branch -d feature_x
 ```
 #### a branch is not available to others unless you push the branch to your remote repository
-git push origin <branch>
+```
+$ git push origin <branch>
+```
 ## Note : ``` The $ sign represents the use of terminal commands ```
+
+For more of a easy demo follow the [site here]("http://rogerdudler.github.io/git-guide/")
