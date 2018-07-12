@@ -1,4 +1,4 @@
-# Using-GitHub
+﻿# Using-GitHub
 ## Basic command lines to learn GitHub on Windows
 
 # SETUP
@@ -27,4 +27,15 @@ show modified files on your device directory, that are added but not pushed to r
 $ git commit -m “[descriptive message]”
 commit your staged content as a new commit snapshot
 ```
-## Note : #### ``` The $ sign represents the use of terminal commands ```
+
+# Directory Updates from Repo
+###Step 1: Move to project directory
+```
+$ cd "[file_name]"
+```
+###Step 2: Initiate pull request to up directory with new changes
+```
+$ git pull origin master
+
+```
+## Note : ``` The $ sign represents the use of terminal commands ```
